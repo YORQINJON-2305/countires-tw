@@ -7,7 +7,7 @@
     "start" : "npx tailwindcss -i ./src/css/main.css -o ./src/css/tailwind.css --watch"
   },
   "keywords": [],
-  "author": "",
+  "author": "Yorqinjon",
   "license": "ISC",
   "devDependencies": {
     "tailwindcss": "^3.1.8"
